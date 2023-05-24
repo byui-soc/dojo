@@ -1,3 +1,8 @@
+title: Dojo
+author: Sam Dustin
+url: https://byui-soc.github.io/
+
+favicon: https://byui-soc.github.io/assets/images/logo.png
 plugins:
   - jekyll-relative-links
 relative_links:
