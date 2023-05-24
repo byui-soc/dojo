@@ -5,3 +5,7 @@ relative_links:
   collections: true
 include:
   - README.md
+remote_theme: abhinavs/moonwalk
+
+theme_config:
+  appearance: "dark"
