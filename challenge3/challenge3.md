@@ -1,4 +1,4 @@
 # Challenge 3
 
-## Belt Granted: White Belt
+## Belt Granted: Orange Belt
 ##

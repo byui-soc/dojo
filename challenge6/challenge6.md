@@ -1,4 +1,4 @@
 # Challenge 6
 
-## Belt Granted: White Belt
+## Belt Granted: Purple Belt
 ##

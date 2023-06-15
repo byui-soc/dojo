@@ -1,4 +1,4 @@
-# Challenge 8
+# Capstone Challenge - Challenge 8
 
-## Belt Granted: White Belt
-##
+## Belt Granted: Black Belt
+### Skills involved: Reverse Engineering, Assembly, C Langage

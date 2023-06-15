@@ -1,4 +1,4 @@
 # Challenge 4
 
-## Belt Granted: White Belt
+## Belt Granted: Green Belt
 ##

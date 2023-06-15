@@ -1,4 +1,4 @@
 # Challenge 5
 
-## Belt Granted: White Belt
+## Belt Granted: Blue Belt
 ##
