@@ -13,6 +13,9 @@ Can you help us? I've attached the file below.
 
 
 <https://github.com/hashcat/hashcat>
+
 <https://github.com/hashcat/hashcat/blob/master/tools/veracrypt2hashcat.py>
+
 <https://www.youtube.com/watch?v=-tJYN-eG1zk>
+
 <https://hashcat.net/wiki/doku.php?id=example_hashes>
