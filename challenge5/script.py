@@ -1,17 +1,3 @@
-# Challenge 5
-
-## Belt Granted: Blue Belt
-## Skills : Python, Code Analysis, Reverse Engineering
-
-There is a server running a python script. Connect to it with netcat with this command:
-
-```
-nc 35.238.206.42 80
-```
-Analyze the code, then decode and enter the password, and you will be given the flag.
-
-```python
-
 import binascii
 import base64
 
@@ -39,7 +25,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
-
-["script.py"](script.py)
-
